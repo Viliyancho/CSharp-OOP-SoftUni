@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# OOP\PersonInfo\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

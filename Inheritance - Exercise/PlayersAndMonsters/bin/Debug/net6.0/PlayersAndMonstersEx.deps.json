@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PlayersAndMonstersEx/1.0.0": {
+        "runtime": {
+          "PlayersAndMonstersEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayersAndMonstersEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

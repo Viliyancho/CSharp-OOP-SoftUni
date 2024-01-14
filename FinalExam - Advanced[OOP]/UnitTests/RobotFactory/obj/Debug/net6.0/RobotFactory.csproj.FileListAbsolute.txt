@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\All Exams - SoftUni\FinalExam - Advanced[OOP]\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll
